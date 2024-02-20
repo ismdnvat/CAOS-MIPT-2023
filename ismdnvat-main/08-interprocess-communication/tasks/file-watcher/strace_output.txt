@@ -1,0 +1,59 @@
+write(2, "tameris@tami:~/5_semester/CAOS/ismdnvat/08-interprocess-communication/tasks/file-watcher$ ", 90) = 90
+--- SIGWINCH {si_signo=SIGWINCH, si_code=SI_KERNEL} ---
+write(2, "\r\33[K\33[Atameris@tami:~/5_semester/CAOS/ismdnvat/08-interprocess-communication/tasks/file\n", 88) = 88
+write(2, "\r-watcher$ ", 11)            = 11
+--- SIGWINCH {si_signo=SIGWINCH, si_code=SI_KERNEL} ---
+write(2, "\r\33[K\33[Atameris@tami:~/5_semester/CAOS/ismdnvat/08-interprocess-communication/tasks/file\n", 88) = 88
+write(2, "\r-watcher$ ", 11)            = 11
+--- SIGWINCH {si_signo=SIGWINCH, si_code=SI_KERNEL} ---
+write(2, "\r\33[K\33[Atameris@tami:~/5_semester/CAOS/ismdnvat/08-interprocess-communication/tasks/file-watcher$ ", 97) = 97
+--- SIGWINCH {si_signo=SIGWINCH, si_code=SI_KERNEL} ---
+write(2, "\r\33[Ktameris@tami:~/5_semester/CAOS/ismdnvat/08-interprocess-communication/tasks/file-watcher$ ", 94) = 94
+--- SIGWINCH {si_signo=SIGWINCH, si_code=SI_KERNEL} ---
+write(2, "\r\33[Ktameris@tami:~/5_semester/CAOS/ismdnvat/08-interprocess-communication/tasks/file-watcher$ ", 94) = 94
+--- SIGWINCH {si_signo=SIGWINCH, si_code=SI_KERNEL} ---
+write(2, "\r\33[Ktameris@tami:~/5_semester/CAOS/ismdnvat/08-interprocess-communication/tasks/file-watcher$ ", 94) = 94
+write(2, "m", 1)                        = 1
+write(2, "a", 1)                        = 1
+write(2, "k", 1)                        = 1
+write(2, "e", 1)                        = 1
+write(2, " ", 1)                        = 1
+write(2, "t", 1)                        = 1
+write(2, "s", 1)                        = 1
+write(2, "e", 1)                        = 1
+write(2, "t", 1)                        = 1
+write(2, "\10\33[K", 4)                 = 4
+write(2, "\10\33[K", 4)                 = 4
+write(2, "\10\33[K", 4)                 = 4
+write(2, "e", 1)                        = 1
+write(2, "s", 1)                        = 1
+write(2, "t", 1)                        = 1
+write(2, "\n", 1)                       = 1
+--- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=88368, si_uid=1000, si_status=2, si_utime=0, si_stime=0} ---
+write(2, "tameris@tami:~/5_semester/CAOS/ismdnvat/08-interprocess-communication/tasks/file-watcher$ ", 90) = 90
+write(2, "make test", 9)                = 9
+write(2, "\10\10\10\10\10\10\10\10\10\33[4Pclear", 18) = 18
+write(2, "\\", 1)                       = 1
+write(2, "\10\33[K", 4)                 = 4
+write(2, "\n", 1)                       = 1
+--- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=88382, si_uid=1000, si_status=0, si_utime=0, si_stime=0} ---
+write(2, "tameris@tami:~/5_semester/CAOS/ismdnvat/08-interprocess-communication/tasks/file-watcher$ ", 90) = 90
+--- SIGINT {si_signo=SIGINT, si_code=SI_KERNEL} ---
+write(2, "^C", 2)                       = 2
+--- SIGINT {si_signo=SIGINT, si_code=SI_USER, si_pid=88358, si_uid=1000} ---
+write(2, "\n", 1)                       = 1
+write(2, "tameris@tami:~/5_semester/CAOS/ismdnvat/08-interprocess-communication/tasks/file-watcher$ ", 90) = 90
+--- SIGINT {si_signo=SIGINT, si_code=SI_KERNEL} ---
+write(2, "^C", 2)                       = 2
+--- SIGINT {si_signo=SIGINT, si_code=SI_USER, si_pid=88358, si_uid=1000} ---
+write(2, "\n", 1)                       = 1
+write(2, "tameris@tami:~/5_semester/CAOS/ismdnvat/08-interprocess-communication/tasks/file-watcher$ ", 90) = 90
+--- SIGINT {si_signo=SIGINT, si_code=SI_KERNEL} ---
+write(2, "^C", 2)                       = 2
+--- SIGINT {si_signo=SIGINT, si_code=SI_USER, si_pid=88358, si_uid=1000} ---
+write(2, "\n", 1)                       = 1
+write(2, "tameris@tami:~/5_semester/CAOS/ismdnvat/08-interprocess-communication/tasks/file-watcher$ ", 90) = 90
+write(2, "exit\n", 5)                   = 5
+write(3, "make test\nclear\n", 16)      = 16
+write(3, "rm ismdnvat\nrm -r ismdnvat\nrm -p ismdnvat\nclear\ngit pull upstream main\ngit pull --ff-onlyA\ngit confi"..., 11291) = 11291
++++ exited with 130 +++

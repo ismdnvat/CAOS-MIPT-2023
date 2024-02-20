@@ -1,0 +1,85 @@
+write(2, "tameris@tami:~/5_semester/CAOS/ismdnvat/08-interprocess-communication/tasks/file-watcher$ ", 90) = 90
+write(2, "e", 1)                        = 1
+write(2, "c", 1)                        = 1
+write(2, "h", 1)                        = 1
+write(2, "o", 1)                        = 1
+write(2, " ", 1)                        = 1
+write(2, "$", 1)                        = 1
+write(2, "?", 1)                        = 1
+write(2, "\n", 1)                       = 1
+write(1, "0\n", 2)                      = 2
+write(2, "tameris@tami:~/5_semester/CAOS/ismdnvat/08-interprocess-communication/tasks/file-watcher$ ", 90) = 90
+--- SIGWINCH {si_signo=SIGWINCH, si_code=SI_KERNEL} ---
+write(2, "\r\33[K\33[Atameris@tami:~/5_semester/CAOS/ismdnvat/08-interprocess-communication/tasks/file\n", 88) = 88
+write(2, "\r-watcher$ ", 11)            = 11
+--- SIGWINCH {si_signo=SIGWINCH, si_code=SI_KERNEL} ---
+write(2, "\r\33[K\33[Atameris@tami:~/5_semester/CAOS/ismdnvat/08-interprocess-communication/tasks/file\n", 88) = 88
+write(2, "\r-watcher$ ", 11)            = 11
+--- SIGWINCH {si_signo=SIGWINCH, si_code=SI_KERNEL} ---
+write(2, "\r\33[K\33[Atameris@tami:~/5_semester/CAOS/ismdnvat/08-interprocess-communication/tasks/file\n", 88) = 88
+write(2, "\r-watcher$ ", 11)            = 11
+--- SIGWINCH {si_signo=SIGWINCH, si_code=SI_KERNEL} ---
+write(2, "\r\33[K\33[Atameris@tami:~/5_semester/CAOS/ismdnvat/08-interprocess-communication/tasks/file\n", 88) = 88
+write(2, "\r-watcher$ ", 11)            = 11
+--- SIGWINCH {si_signo=SIGWINCH, si_code=SI_KERNEL} ---
+write(2, "\r\33[K\33[Atameris@tami:~/5_semester/CAOS/ismdnvat/08-interprocess-communication/tasks/file\n", 88) = 88
+write(2, "\r-watcher$ ", 11)            = 11
+--- SIGWINCH {si_signo=SIGWINCH, si_code=SI_KERNEL} ---
+write(2, "\r\33[K\33[Atameris@tami:~/5_semester/CAOS/ismdnvat/08-interprocess-communication/tasks/file\n", 88) = 88
+write(2, "\r-watcher$ ", 11)            = 11
+--- SIGWINCH {si_signo=SIGWINCH, si_code=SI_KERNEL} ---
+write(2, "\r\33[K\33[Atameris@tami:~/5_semester/CAOS/ismdnvat/08-interprocess-communication/tasks/file-watcher$ ", 97) = 97
+--- SIGWINCH {si_signo=SIGWINCH, si_code=SI_KERNEL} ---
+write(2, "\r\33[Ktameris@tami:~/5_semester/CAOS/ismdnvat/08-interprocess-communication/tasks/file-watcher$ ", 94) = 94
+--- SIGWINCH {si_signo=SIGWINCH, si_code=SI_KERNEL} ---
+write(2, "\r\33[Ktameris@tami:~/5_semester/CAOS/ismdnvat/08-interprocess-communication/tasks/file-watcher$ ", 94) = 94
+--- SIGWINCH {si_signo=SIGWINCH, si_code=SI_KERNEL} ---
+write(2, "\r\33[Ktameris@tami:~/5_semester/CAOS/ismdnvat/08-interprocess-communication/tasks/file-watcher$ ", 94) = 94
+--- SIGWINCH {si_signo=SIGWINCH, si_code=SI_KERNEL} ---
+write(2, "\r\33[Ktameris@tami:~/5_semester/CAOS/ismdnvat/08-interprocess-communication/tasks/file-watcher$ ", 94) = 94
+--- SIGWINCH {si_signo=SIGWINCH, si_code=SI_KERNEL} ---
+write(2, "\r\33[Ktameris@tami:~/5_semester/CAOS/ismdnvat/08-interprocess-communication/tasks/file-watcher$ ", 94) = 94
+--- SIGWINCH {si_signo=SIGWINCH, si_code=SI_KERNEL} ---
+write(2, "\r\33[Ktameris@tami:~/5_semester/CAOS/ismdnvat/08-interprocess-communication/tasks/file-watcher$ ", 94) = 94
+--- SIGWINCH {si_signo=SIGWINCH, si_code=SI_KERNEL} ---
+write(2, "\r\33[Ktameris@tami:~/5_semester/CAOS/ismdnvat/08-interprocess-communication/tasks/file-watcher$ ", 94) = 94
+--- SIGWINCH {si_signo=SIGWINCH, si_code=SI_KERNEL} ---
+write(2, "\r\33[Ktameris@tami:~/5_semester/CAOS/ismdnvat/08-interprocess-communication/tasks/file-watcher$ ", 94) = 94
+--- SIGWINCH {si_signo=SIGWINCH, si_code=SI_KERNEL} ---
+write(2, "\r\33[Ktameris@tami:~/5_semester/CAOS/ismdnvat/08-interprocess-communication/tasks/file-watcher$ ", 94) = 94
+--- SIGWINCH {si_signo=SIGWINCH, si_code=SI_KERNEL} ---
+write(2, "\r\33[Ktameris@tami:~/5_semester/CAOS/ismdnvat/08-interprocess-communication/tasks/file-watcher$ ", 94) = 94
+--- SIGWINCH {si_signo=SIGWINCH, si_code=SI_KERNEL} ---
+write(2, "\r\33[Ktameris@tami:~/5_semester/CAOS/ismdnvat/08-interprocess-communication/tasks/file-watcher$ ", 94) = 94
+--- SIGWINCH {si_signo=SIGWINCH, si_code=SI_KERNEL} ---
+write(2, "\r\33[Ktameris@tami:~/5_semester/CAOS/ismdnvat/08-interprocess-communication/tasks/file-watcher$ ", 94) = 94
+--- SIGWINCH {si_signo=SIGWINCH, si_code=SI_KERNEL} ---
+write(2, "\r\33[Ktameris@tami:~/5_semester/CAOS/ismdnvat/08-interprocess-communication/tasks/file-watcher$ ", 94) = 94
+--- SIGWINCH {si_signo=SIGWINCH, si_code=SI_KERNEL} ---
+write(2, "\r\33[Ktameris@tami:~/5_semester/CAOS/ismdnvat/08-interprocess-communication/tasks/file-watcher$ ", 94) = 94
+--- SIGWINCH {si_signo=SIGWINCH, si_code=SI_KERNEL} ---
+write(2, "\r\33[Ktameris@tami:~/5_semester/CAOS/ismdnvat/08-interprocess-communication/tasks/file-watcher$ ", 94) = 94
+write(2, "echo $?", 7)                  = 7
+write(2, "\10", 1)                      = 1
+write(2, "\10\33[1P?\10", 7)            = 7
+write(2, "\n", 1)                       = 1
+write(1, "?\n", 2)                      = 2
+write(2, "tameris@tami:~/5_semester/CAOS/ismdnvat/08-interprocess-communication/tasks/file-watcher$ ", 90) = 90
+write(2, "echo ?", 6)                   = 6
+write(2, "\10$?", 3)                    = 3
+write(2, "\10\10\10\10\10\10\10\33[2Pclear", 16) = 16
+write(2, "\10\10\10\10\10echo $?", 12)  = 12
+write(2, "\10\10\33[1P?", 7)            = 7
+write(2, "\10\10\10\10\10\10\33[K", 9)  = 9
+write(2, "\7", 1)                       = 1
+write(2, "\7", 1)                       = 1
+write(2, "\7", 1)                       = 1
+write(2, "\7", 1)                       = 1
+write(2, "\7", 1)                       = 1
+write(2, "exit\n", 5)                   = -1 EIO (Ошибка ввода/вывода)
+--- SIGHUP {si_signo=SIGHUP, si_code=SI_KERNEL} ---
+--- SIGCONT {si_signo=SIGCONT, si_code=SI_KERNEL} ---
+write(3, "echo $?\necho ?\n", 15)       = 15
+write(3, "rm -p ismdnvat\nclear\ngit pull upstream main\ngit pull --ff-onlyA\ngit config --global pull.ff only\ngit"..., 11279) = 11279
+--- SIGHUP {si_signo=SIGHUP, si_code=SI_USER, si_pid=88564, si_uid=1000} ---
++++ killed by SIGHUP +++
